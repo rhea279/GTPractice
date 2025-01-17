@@ -1,2 +1,1 @@
-# day2_gitignore
-# adding files to .gitignore
+# First Line in Readme
